@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[SC Media](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5)",
+    "[Dark Reading](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVo4WmxQT1J1ZjA4UnlTa2RIVVBWYUNpQ2dKbm5xa2NfZWdPSXZneU1RdjhmOTk5dGtOQm4tcjZkM285SThCWVVHbFZaZ3NSLUpfWFlHSFhuMkhOYlFEd3NiWGxHSmlOS0JjZFhRVmxzdWJnbm5BZDZlN3VZMUd4SUNkWDFWVFQwaGU5VWtmWQ?oc=5)",
+    "[AIMultiple](https://news.google.com/rss/articles/CBMiREFVX3lxTFBJX1FvZk1peHRfTWNUUGhUdE9EMXBpNXpfSkhEdDNkZWpycllGWC13bFdEU1dRSTQ1aDVPXy01N25PczZV?oc=5)",
+    "[creao.ai](https://creao.ai/ai-super-agent)"
+  ],
+  "design_plan": "rng=42; hero_lines=2-3@1120px; AIDA=pass; bento_density=grid-auto-flow:dense verified; competitors_sweep=pass; button_contrast=AA+",
+  "generated_at": "2026-07-04T15:16:52.057588+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page that shows how Super helps ecommerce operators actually run order checks, support triage, and repetitive admin by operating real apps and reusing a computer-use cache \u2014 positioned clearly against ChatGPT, Gemini, Grok, Siri, Folk, and Orchids, with current market evidence."
+}
